@@ -1,0 +1,5 @@
+<svg width="150" height="40" viewBox="0 0 150 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 25L15 15H35L40 25H10Z" fill="#F5A623"/>
+  <path d="M5 28H45C45 32 40 35 25 35C10 35 5 32 5 28Z" fill="#0B1B3D"/>
+  <text x="50" y="28" font-family="Playfair Display, serif" font-size="20" font-weight="bold" fill="#0B1B3D">AquaLuxe</text>
+</svg>
